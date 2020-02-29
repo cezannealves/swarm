@@ -6,7 +6,7 @@ Swarm is a simulator for the scenario where a swarm of drones is pursuing a set 
 
 This is a very dificult problem because each drone acts independently, has only local knowledge an has its own objective, and even with perfect knowledge, the optimum solution for a single time-step takes [exponential time](https://doi.org/10.1109/IROS.2012.6386226) with respect to the number of drones.
 
-![](swarm.png)
+![swarm.png](swarm.png)
 
 The user is able to Edit scenarios agent by agent or in a batch manner and interact with the agents even when the simulation is running.
 
